@@ -28,7 +28,7 @@ public class ScannerExample {
 				System.out.println();
 			}
 		} catch (NumberFormatException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 		
