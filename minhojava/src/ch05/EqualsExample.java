@@ -21,7 +21,7 @@ public class EqualsExample {
 		
 		if(strVar3 == strVar4) {
 			System.out.println("strVar3과 strVar4는 참조가 같음");
-		}else {
+		}else { 
 			System.out.println("strVar3과 strVar4는 참조가 다름");
 		}
 		
