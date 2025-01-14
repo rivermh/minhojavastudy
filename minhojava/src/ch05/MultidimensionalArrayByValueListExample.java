@@ -26,7 +26,7 @@ public class MultidimensionalArrayByValueListExample {
 		}
 		double class1Avg = (double) class1Sum / scores[0].length;
 		System.out.println("첫 번째 반의 평균 점수: " + class1Sum);
-		
+		 
 		//두 번째 반의 평균 점수 구하기
 		int class2Sum = 0;
 		for(int i = 0; i<scores[1].length; i++) {

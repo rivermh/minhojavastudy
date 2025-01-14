@@ -12,7 +12,7 @@ public class MultdimensionalArrayByNewExample {
 			}
 		}
 		System.out.println();
-		
+		 
 		//배열 항목 값 변경
 		mathScores[0][0] = 80;
 		mathScores[0][1] = 83;
