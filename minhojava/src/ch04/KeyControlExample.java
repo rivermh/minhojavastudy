@@ -26,7 +26,7 @@ public class KeyControlExample {
 				}else if(strNum.equals("3")) {
 					run = false;
 				}
-			}
+			} 
 		}
 		System.out.println("프로그램 종료");
 	}
