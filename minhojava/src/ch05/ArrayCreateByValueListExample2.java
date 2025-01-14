@@ -17,7 +17,7 @@ public class ArrayCreateByValueListExample2 {
 		//배열을 매개값으로 주고, printItem() 메소드 호출
 		printItem( new int[] {83, 90, 87 });
 	}
-	
+	 
 	//printItem() 메소드 선언
 	public static void printItem( int[] scores) {
 		//매개변수가 참조하는 배열의 항목을 출력

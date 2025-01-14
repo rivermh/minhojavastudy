@@ -20,7 +20,7 @@ public class ArrayCreateByValueListExample {
 		int[] scores = {83, 90, 80};
 		
 		//총합과 평균 구하기
-		int sum = 0;
+		int sum = 0; 
 		for(int i = 0; i<3; i++) {
 			sum += scores[i];
 		}

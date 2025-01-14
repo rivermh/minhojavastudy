@@ -19,7 +19,7 @@ public class ArrayCreateByNewExample {
 			System.out.print("arr1[" + i + "] : " + arr1[i] + ", ");
 		}
 		System.out.println("\n");
-		
+		 
 		//배열 변수 선언과 배열 생성
 		double[] arr2 = new double[3];
 		
