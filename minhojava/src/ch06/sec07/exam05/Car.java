@@ -23,6 +23,6 @@ public class Car {
 		this.model = model;
 		this.color = color;
 		this.maxSpeed = maxSpeed;
-	}
+	} 
 }
 
