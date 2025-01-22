@@ -25,10 +25,9 @@ public class KeyControlExample {
 					System.out.println("현재속도 = " + speed);
 				}else if(strNum.equals("3")) {
 					run = false;
-				}
-			} 
+				} 
+			}  
 		}
 		System.out.println("프로그램 종료");
 	}
-
 }
