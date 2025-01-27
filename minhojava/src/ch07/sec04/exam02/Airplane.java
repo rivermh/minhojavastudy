@@ -14,4 +14,4 @@ public class Airplane {
 		System.out.println("이륙합니다.");
 	}
 }
-  
+   
