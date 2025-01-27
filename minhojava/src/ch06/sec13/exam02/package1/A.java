@@ -17,4 +17,4 @@ public class A {
 	//private 접근 제한 생성자 선언
 	private A(String s) {
 	}
-}
+}  

@@ -15,3 +15,4 @@ public class CalculatorExample {
 		System.out.println("직사각형 넓이: " + result2);
 	}
 }
+ 

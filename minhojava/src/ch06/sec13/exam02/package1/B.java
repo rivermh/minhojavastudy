@@ -5,3 +5,4 @@ public class B {
 	A a1 = new A(true); //o
 	A a2 = new A(1);
 }
+ 
