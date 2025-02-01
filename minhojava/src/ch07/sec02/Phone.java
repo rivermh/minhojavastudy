@@ -22,3 +22,4 @@ public class Phone {
 		System.out.println("전화를 끊습니다.");
 	}
 }
+ 
