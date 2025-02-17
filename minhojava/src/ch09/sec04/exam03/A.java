@@ -17,7 +17,7 @@ public class A {
 		arg = 2;
 		var = 2;
 		
-		System.out.println("arg: " + arg);
+		System.out.println("arg: " + arg); 
 		System.out.println("var: " + var);
 		
 	
