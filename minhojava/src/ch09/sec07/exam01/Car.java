@@ -23,7 +23,7 @@ public class Car {
 		};
 		tire.roll();
 	}
-	
+	 
 	public void run3(Tire tire) {
 		tire.roll();
 	}

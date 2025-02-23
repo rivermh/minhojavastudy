@@ -8,7 +8,7 @@ public class A {
 	//Constructor
 	A(){
 		B b = new B();
-		b.methodB();
+		b.methodB(); 
 	}
 	//Method
 	void methodA() {
@@ -18,7 +18,7 @@ public class A {
 	//Nested Class
 	public class B{
 		//Field
-		//Constructor
+		//Constructor 
 		//Method
 		public void methodB() {
 			System.out.println("methodB() 실행");

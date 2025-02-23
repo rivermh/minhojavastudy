@@ -8,7 +8,8 @@ public class AExample {
 		a.field = 10;
 		
 		A.B b = a.new B();
-		b.methodB();
+		b.methodB(); 
 	
 	}
 }
+ 

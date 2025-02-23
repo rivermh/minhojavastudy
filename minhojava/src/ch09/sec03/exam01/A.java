@@ -26,3 +26,4 @@ public class A {
 		B field1 = new B();
 	}
 }
+ 
