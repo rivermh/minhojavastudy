@@ -2,6 +2,7 @@ package ch11.sec06;
 
 public class Account {
 	private long balance;
+	private String owner;
 	
 	public Account() {}
 	
@@ -19,4 +20,4 @@ public class Account {
 		}
 		balance -= money;
 	}
-}
+} 
