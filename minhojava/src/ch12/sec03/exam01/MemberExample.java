@@ -10,7 +10,8 @@ public class MemberExample {
 		
 		Member obj3 = new Member("red");
 		
-		System.out.println(obj1 == obj3);
+		System.out.println(obj1 == obj3); 
 		System.out.println(obj1.equals(obj3));
 	} 
 }
+ 
