@@ -15,5 +15,5 @@ public class Member {
 			}
 		}
 		return false;
-	}
+	} 
 }

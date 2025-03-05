@@ -12,6 +12,6 @@ public class MemberExample {
 		
 		System.out.println(obj1 == obj3); 
 		System.out.println(obj1.equals(obj3));
-	} 
+	}  
 }
  
